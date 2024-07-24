@@ -5,3 +5,4 @@ This is a list of technology newsletters and blogs I follow by Princeton profess
 ## Professors and Departments
 
 ## Alumni
+* [**Understanding AI** by Timothy Lee](https://www.understandingai.org/)
