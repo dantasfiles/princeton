@@ -4,8 +4,8 @@ This is a list of technology newsletters and blogs I follow by Princeton profess
 
 ## Professors
 * [**Freedom to Tinker** by the Center for Information Technology Policy](https://freedom-to-tinker.com/)
-* [**Windows On Theory** by Boaz Barak](https://windowsontheory.org/) (formerly)
 * [**AI, Law, & Policy Update** by Peter Henderson](https://www.ailawpolicy.com/)
+* [**AI Snake Oil** by Arvind Narayanan](https://www.aisnakeoil.com/)
 
 ## Alumni
 
