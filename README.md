@@ -8,7 +8,7 @@ This is a list of technology newsletters and blogs I follow by Princeton profess
 * [**AI Snake Oil** by *Arvind Narayanan* and Sayash Kapoor](https://www.aisnakeoil.com/)
 
 ## Alumni
-
+* [**Blog** by *Vlad Feinberg*](https://vladfeinberg.com/)
 * [**Understanding AI** by *Timothy Lee*](https://www.understandingai.org/)
 
 ## Former Professors
