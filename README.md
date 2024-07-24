@@ -5,7 +5,7 @@ This is a list of technology newsletters and blogs I follow by Princeton profess
 ## Professors
 * [**Freedom to Tinker** by the *Center for Information Technology Policy*](https://freedom-to-tinker.com/)
 * [**AI, Law, & Policy Update** by *Peter Henderson*](https://www.ailawpolicy.com/)
-* [**AI Snake Oil** by *Arvind Narayanan* and Sayesh Kapoor](https://www.aisnakeoil.com/)
+* [**AI Snake Oil** by *Arvind Narayanan* and Sayash Kapoor](https://www.aisnakeoil.com/)
 
 ## Alumni
 
