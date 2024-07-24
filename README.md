@@ -10,3 +10,6 @@ This is a list of technology newsletters and blogs I follow by Princeton profess
 ## Alumni
 
 * [**Understanding AI** by Timothy Lee](https://www.understandingai.org/)
+
+## Former Professors
+* [**Windows On Theory** by Boaz Barak](https://windowsontheory.org/)
