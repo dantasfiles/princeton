@@ -6,4 +6,5 @@ This is a list of technology newsletters and blogs I follow by Princeton profess
 * [**AI, Law, & Policy Update** by Peter Henderson](https://www.ailawpolicy.com/)
 
 ## Alumni
+* [**Windows On Theory** by Boaz Barak](https://windowsontheory.org/)
 * [**Understanding AI** by Timothy Lee](https://www.understandingai.org/)
