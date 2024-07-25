@@ -1,6 +1,6 @@
 # Princeton-related Technology Newsletters and Blogs
 
-This is a list of technology newsletters and blogs I follow by Princeton professors and alumni. To suggest additions or changes, email me at [ddantas@alumni.princeton.edu](mailto:ddantas@alumni.princeton.edu)
+This is a list of technology newsletters and blogs I follow by Princeton professors and alumni. To suggest additions or changes, email me at [ddantas@alumni.princeton.edu](mailto:ddantas@alumni.princeton.edu), or [open a Github issue](https://github.com/dantasfiles/princeton-technology-blogs/issues)
 
 ## Professors
 * [**Freedom to Tinker** by the *Center for Information Technology Policy*](https://freedom-to-tinker.com/)
