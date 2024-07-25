@@ -1,6 +1,5 @@
 title: Princeton-related Technology Newsletters and Blogs
 google_analytics: G-TJ7SDSPJ1V
 
-remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme
