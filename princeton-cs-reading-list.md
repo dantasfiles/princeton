@@ -27,5 +27,17 @@ These are books that are required or recommended for use in computer science cla
 | --- | --- |
 | [**Computer Graphics**](https://cos426.cs.princeton.edu/)<br>COS 426 | <ul><li>*Computer Graphics with Open GL* by Hearn, Baker & Carithers</li></ul> |
 | [**Cryptography**](https://sites.google.com/view/alex-lombardi/home/cos-433533-fall-2024-princeton)<br>COS 433 / MAT 473 | <ul><li>*Introduction to Modern Cryptography* by Katz & Lindell</li><li>*Foundations of Cryptography* by Oded Goldreich</li><li>*Tutorials on the Foundations of Cryptography: Dedicated to Oded Goldreich* by Yehuda Lindell</li></ul> |
+| **Human-Computer Interaction**<br>COS 436 | <ul><li>[*Statistical Methods for HCI Research*](https://yatani.jp/teaching/doku.php?id=hcistats:start) by Koji Yatani</li><li>*Readings in Information Visualization: Using Vision to Think* by Card, Mackinlay & Shneiderman</li><li>*The Design of Implicit Interactions* by Wendy Ju</li></ul> |
+| **Design of Very Large-Scale Integrated (VLSI) Systems**<br>ECE 462 / COS 462 | <ul><li>*Digital Integrated Circuits: A Design Perspective* by Rabaey, Chandrakasan & Nikolic</li></ul> |
+| [**Principles of Blockchains**](https://web3.princeton.edu/principles-of-blockchains/)<br>ECE 470 / COS 470 | <ul><li>✨ [*Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction*](https://bitcoinbook.cs.princeton.edu/) by Narayanan, Bonneau, Felten, Miller & Goldfeder ✨</li></ul> |
+
+| Graduate | Reading List |
+| --- | --- |
+| [**Theoretical Machine Learning**](https://sites.google.com/view/cos511fall2024/)<br>COS 511 | <ul><li>[*Introduction to Online Convex Optimization*](https://arxiv.org/abs/1909.05207) by Elad Hazan</li><li>[*Introduction to Online Nonstochastic Control*](https://arxiv.org/abs/2211.09619) by Hazan & Singh</li><li>*Prediction, Learning, and Games* by Cesa-Bianchi & Lugosi</li><li>[*Understanding Machine Learning: From Theory to Algorithms*](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) by Shalev-Shwartz & Ben-David</li><li>[*Boosting: Foundations and Algorithms*](https://direct.mit.edu/books/oa-monograph/5342/BoostingFoundations-and-Algorithms) by Schapire & Freund</li></ul> |
+
+
+
+
+
 
 
