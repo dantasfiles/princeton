@@ -26,6 +26,6 @@ These are books that are required or recommended for use in computer science cla
 | Senior | Reading List |
 | --- | --- |
 | [**Computer Graphics**](https://cos426.cs.princeton.edu/)<br>COS 426 | <ul><li>*Computer Graphics with Open GL* by Hearn, Baker & Carithers</li></ul> |
-
+| [**Cryptography**](https://sites.google.com/view/alex-lombardi/home/cos-433533-fall-2024-princeton)<br>COS 433 / MAT 473 | <ul><li>*Introduction to Modern Cryptography* by Katz & Lindell</li><li>*Foundations of Cryptography* by Oded Goldreich</li><li>*Tutorials on the Foundations of Cryptography: Dedicated to Oded Goldreich* by Yehuda Lindell</li></ul> |
 
 
