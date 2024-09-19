@@ -12,5 +12,7 @@
 | Junior | Reading List |
 | --- | --- |
 | [**Mathematics for Numerical Computing and Machine Learning**](https://cos302-f24.notion.site/)<br>COS 302 / SML 305 / ECE 305 | <ul><li>[*Mathematics for Machine Learning*](https://mml-book.github.io/) by Deisenroth, Faisal & Ong</li></ul> |
+| **Contemporary Logic Design**<br>ECE 206 / COS 306 | <ul><li>*Digital Design with RTL Design, VHDL, and Verilog* by Frank Vahid</li></ul> |
+| [**Computing and Optimization for the Physical and Social Sciences**](https://aaa.princeton.edu/orf363)<br>ORF 363 / COS 323 | <ul><li>*An Introduction to Optimization: With Applications to Machine Learning* by Chong, Lu & Zak</li><li>*Algorithms* by Dasgupta, Papadimitriou & Vazirani</li><li>[*Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares*](https://web.stanford.edu/~boyd/vmls/) by Boyd & Vandenberghe</li><li>[*Convex Optimization*](https://web.stanford.edu/~boyd/cvxbook/) by Boyd & Vandenberghe</li></ul> |
 
 
