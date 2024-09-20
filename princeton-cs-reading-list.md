@@ -6,6 +6,7 @@ These are books that are required or recommended for use in computer science cla
 | [**Computer Science: An Interdisciplinary Approach**](https://www.cs.princeton.edu/courses/archive/fall24/cos126/)<br>COS 126 / EGR 126 | ● [*Computer Science: An Interdisciplinary Approach*](https://introcs.cs.princeton.edu/) by Sedgewick & Wayne |
 
 ## Sophomore Level
+| --- | --- |
 | [**Introduction to Programming Systems**](https://www.cs.princeton.edu/courses/archive/fall24/cos217/)<br>COS 217 | ● *C Programming: A Modern Approach* by K.N. King<br> ● *ARM 64-Bit Assembly Language* by Pyeatt & Ughetta<br> ● ✨ *The Practice of Programming* by Kernighan & Pike ✨<br> ● *Linux Pocket Guide: Essential Commands* by Daniel J. Barrett |
 | [**Algorithms & Data Structures**](https://www.cs.princeton.edu/courses/archive/fall24/cos226/)<br>COS 226 | ● [*Algorithms*](https://algs4.cs.princeton.edu/) by Sedgewick & Wayne |
 | [**Reasoning About Computation**](https://www.cs.princeton.edu/courses/archive/fall24/cos226/)<br>COS 240 | ● *Mathematics for Computer Science* by Lehman, Leighton & Meyer |
