@@ -1,4 +1,10 @@
-These are books that are required or recommended for use in computer science classes at Princeton<br>The books marked with a ✨ are ones I've liked enough to read all the way through
+---
+title: Princeton CS Fall 2024 Reading List
+---
+
+These are books that are required or recommended for use in computer science classes at Princeton
+
+The books marked with a ✨ are ones I've liked enough to read all the way through
 
 | Freshman Level | |
 | --- | --- |
