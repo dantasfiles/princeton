@@ -28,6 +28,7 @@ These are books that are required or recommended for use in computer science cla
 | Senior | Reading List |
 | --- | --- |
 | [**Computer Graphics**](https://cos426.cs.princeton.edu/)<br>COS 426 | ● *Computer Graphics with Open GL* by Hearn, Baker & Carithers |
+| **Computer Vision**<br>COS 429 | ● [*Computer Vision: Algorithms and Applications*](https://szeliski.org/Book/) by Richard Szeliski |
 | [**Cryptography**](https://sites.google.com/view/alex-lombardi/home/cos-433533-fall-2024-princeton)<br>COS 433 / MAT 473 | ● *Introduction to Modern Cryptography* by Katz & Lindell<br> ● *Foundations of Cryptography* by Oded Goldreich<br> ● *Tutorials on the Foundations of Cryptography: Dedicated to Oded Goldreich* by Yehuda Lindell |
 | **Human-Computer Interaction**<br>COS 436 | ● [*Statistical Methods for HCI Research*](https://yatani.jp/teaching/doku.php?id=hcistats:start) by Koji Yatani<br> ● *Readings in Information Visualization: Using Vision to Think* by Card, Mackinlay & Shneiderman<br> ● *The Design of Implicit Interactions* by Wendy Ju |
 | **Design of Very Large-Scale Integrated (VLSI) Systems**<br>ECE 462 / COS 462 | ● *Digital Integrated Circuits: A Design Perspective* by Rabaey, Chandrakasan & Nikolic |
