@@ -19,6 +19,7 @@ This is a list of technology newsletters and blogs I follow by Princeton profess
 * [**Jordan Boyd-Graber**](https://www.youtube.com/@JordanBoydGraber/)
 * [**Vlad Feinberg**](https://vladfeinberg.com/)
 * [**_Understanding AI_**](https://www.understandingai.org/) by Timothy Lee
+* [**Zeyuan Allen-Zhu**](https://www.youtube.com/@Zeyuan-AllenZhu)
 
 ## Former Professors
 * [**_Windows On Theory_**](https://windowsontheory.org/) by Boaz Barak
