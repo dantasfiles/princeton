@@ -1,10 +1,10 @@
 ---
-title: Princeton Computer Science Major Fall 2024 Unofficial Reading List
+title: Princeton Computer Science - Fall 2024 Unofficial Reading List
 ---
 
 [← Back to dantasfiles.com/princeton](https://dantasfiles.com/princeton)
 
-# Princeton Computer Science Major Fall 2024 Unofficial Reading List
+# Princeton Computer Science - Fall 2024 Unofficial Reading List
 
 These are books that are recommended in computer science classes at Princeton
 
