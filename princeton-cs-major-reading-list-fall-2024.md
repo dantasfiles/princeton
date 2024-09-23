@@ -1,3 +1,7 @@
+---
+title: Princeton Computer Science Major Fall 2024 Reading List
+---
+
 
 [← Back to dantasfiles.com](https://dantasfiles.com)
 
