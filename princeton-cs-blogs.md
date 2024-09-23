@@ -15,7 +15,7 @@ This is a list of technology newsletters and blogs I follow by Princeton profess
 * [**Understanding AI** by *Timothy Lee*](https://www.understandingai.org/)
 
 ## Former Professors
-* [**Windows On Theory** by *Boaz Barak*](https://windowsontheory.org/)
+* [**_Windows On Theory_**](https://windowsontheory.org/) by Boaz Barak
 * [**Godel's Lost Letter and P=NP** by *Dick Lipton*](https://rjlipton.com/)
 
 [← Back to dantasfiles.com/princeton](https://dantasfiles.com/princeton)
