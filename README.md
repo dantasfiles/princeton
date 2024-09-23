@@ -4,4 +4,6 @@
 
 ## [Princeton-related Technology Newsletters and Blogs →](https://dantasfiles.com/princeton/princeton-cs-blogs)
 
+*I'm an alumnus, but am otherwise not affiliated with Princeton*
+
 [← Back to dantasfiles.com](https://dantasfiles.com)
