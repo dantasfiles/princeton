@@ -13,6 +13,7 @@ This is a list of technology newsletters and blogs I follow by Princeton profess
 * [**_AI, Law, & Policy Update_**](https://www.ailawpolicy.com/) by Peter Henderson
 * [**Princeton Language + Intelligence**](https://pli.princeton.edu/blog)
 * [**_AI Snake Oil_**](https://www.aisnakeoil.com/) by Arvind Narayanan & Sayash Kapoor
+* [**Rebecca Sutton Koeser**](https://rlskoeser.github.io/)
 
 ## Alumni
 * [**Jordan Boyd-Graber**](https://www.youtube.com/@JordanBoydGraber/)
