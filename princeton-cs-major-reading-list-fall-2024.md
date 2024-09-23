@@ -1,6 +1,3 @@
----
-title: Princeton CS Fall 2024 Reading List
----
 
 [← Back to dantasfiles.com](https://dantasfiles.com)
 
