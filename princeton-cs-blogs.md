@@ -5,7 +5,7 @@
 This is a list of technology newsletters and blogs I follow by Princeton professors and alumni. To suggest additions or changes, email me at [ddantas@alumni.princeton.edu](mailto:ddantas@alumni.princeton.edu)
 
 ## Professors
-* [**Freedom to Tinker** by the *Center for Information Technology Policy*](https://freedom-to-tinker.com/)
+* [**Freedom to Tinker**](https://freedom-to-tinker.com/) by the *Center for Information Technology Policy*
 * [**AI, Law, & Policy Update** by *Peter Henderson*](https://www.ailawpolicy.com/)
 * [**PLI Blog** by *Princeton Language + Intelligence*](https://pli.princeton.edu/blog)
 * [**AI Snake Oil** by *Arvind Narayanan* and Sayash Kapoor](https://www.aisnakeoil.com/)
