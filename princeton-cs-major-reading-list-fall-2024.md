@@ -1,3 +1,6 @@
+---
+title: Princeton Computer Science Major Fall 2024 Reading List
+---
 
 [← Back to dantasfiles.com/princeton](https://dantasfiles.com/princeton)
 
@@ -52,7 +55,7 @@ The books marked with a ✨ are ones [I've](https://dantasfiles.com) liked enoug
 | [**Deep Dive into Large Languages (Advanced Topics in Computer Science)**](https://princeton-cos597r.github.io/)<br>COS 597R | See website for paper list |
 | [**Recent Advances in Wireless Networks (Advanced Topics in Computer Science)**](https://kyleatprinceton.github.io/cos597s/)<br>COS 597S | See website for paper list |
 
-[← Back to dantasfiles.com](https://dantasfiles.com)
+[← Back to dantasfiles.com/princeton](https://dantasfiles.com/princeton)
 
 
 
