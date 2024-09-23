@@ -8,7 +8,7 @@ title: Princeton-related Technology Newsletters and Blogs
 
 This is a list of technology newsletters and blogs I follow by Princeton professors and alumni.<br>To suggest additions or changes, email me at [ddantas@alumni.princeton.edu](mailto:ddantas@alumni.princeton.edu)
 
-## Professors
+## Professors & Staff
 * [**_Freedom to Tinker_**](https://freedom-to-tinker.com/)  by the  Center for Information Technology Policy  ([Youtube](https://www.youtube.com/@citpprinceton))
 * [**_AI, Law, & Policy Update_**](https://www.ailawpolicy.com/) by Peter Henderson
 * [**Princeton Language + Intelligence**](https://pli.princeton.edu/blog)
