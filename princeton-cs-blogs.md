@@ -1,3 +1,7 @@
+---
+title: Princeton-related Technology Newsletters and Blogs
+---
+
 [← Back to dantasfiles.com/princeton](https://dantasfiles.com/princeton)
 
 # Princeton-related Technology Newsletters and Blogs
