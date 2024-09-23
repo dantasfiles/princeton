@@ -2,9 +2,13 @@
 title: Princeton CS Fall 2024 Reading List
 ---
 
-These are books that are required or recommended for use in computer science classes at Princeton
+[← Back to dantasfiles.com](https://dantasfiles.com)
 
-The books marked with a ✨ are ones I've liked enough to read all the way through
+# Princeton Computer Science Major Fall 2024 Reading List
+
+These are books that are recommended in computer science classes at Princeton
+
+The books marked with a ✨ are ones [I've](https://dantasfiles.com) liked enough to read all the way through
 
 | Freshman Level | |
 | --- | --- |
@@ -51,7 +55,7 @@ The books marked with a ✨ are ones I've liked enough to read all the way throu
 | [**Deep Dive into Large Languages (Advanced Topics in Computer Science)**](https://princeton-cos597r.github.io/)<br>COS 597R | See website for paper list |
 | [**Recent Advances in Wireless Networks (Advanced Topics in Computer Science)**](https://kyleatprinceton.github.io/cos597s/)<br>COS 597S | See website for paper list |
 
-
+[← Back to dantasfiles.com](https://dantasfiles.com)
 
 
 
