@@ -5,17 +5,17 @@
 This is a list of technology newsletters and blogs I follow by Princeton professors and alumni. To suggest additions or changes, email me at [ddantas@alumni.princeton.edu](mailto:ddantas@alumni.princeton.edu)
 
 ## Professors
-* [**_Freedom to Tinker_** by the Center for Information Technology Policy](https://freedom-to-tinker.com/) 
-* [**AI, Law, & Policy Update**](https://www.ailawpolicy.com/) by Peter Henderson
+* [**_Freedom to Tinker_**](https://freedom-to-tinker.com/)  by the  Center for Information Technology Policy
+* [**_AI, Law, & Policy Update_**](https://www.ailawpolicy.com/) by Peter Henderson
 * [**_PLI Blog_**](https://pli.princeton.edu/blog) by Princeton Language + Intelligence
-* [**AI Snake Oil** by *Arvind Narayanan* and Sayash Kapoor](https://www.aisnakeoil.com/)
+* [**_AI Snake Oil_**](https://www.aisnakeoil.com/) by Arvind Narayanan & Sayash Kapoor
 
 ## Alumni
-* [**Blog** by *Vlad Feinberg*](https://vladfeinberg.com/)
-* [**Understanding AI** by *Timothy Lee*](https://www.understandingai.org/)
+* [**Vlad Feinberg**](https://vladfeinberg.com/)
+* [**_Understanding AI_**](https://www.understandingai.org/) by Timothy Lee
 
 ## Former Professors
 * [**_Windows On Theory_**](https://windowsontheory.org/) by Boaz Barak
-* [**Godel's Lost Letter and P=NP** by *Dick Lipton*](https://rjlipton.com/)
+* [**_Godel's Lost Letter & P=NP_**](https://rjlipton.com/) by Dick Lipton
 
 [← Back to dantasfiles.com/princeton](https://dantasfiles.com/princeton)
